@@ -1,5 +1,5 @@
 {
-    "name": "rexlmanu/mongodb",
+    "name": "rexlmanu/arangodb",
     "description": "A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)",
     "keywords": ["laravel","eloquent","mongodb","mongo","database","model","moloquent"],
     "homepage": "https://github.com/jenssegers/laravel-mongodb",
